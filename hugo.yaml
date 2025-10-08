@@ -1,7 +1,7 @@
 baseURL: https://benvdweg.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
-title: My Blog
+title: Factory of The Future
 
 pagination:
     pagerSize: 5
