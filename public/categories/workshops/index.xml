@@ -6,7 +6,29 @@
         <description>Recent content in Workshops on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 21 Oct 2025 02:36:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/workshops/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Oct 2025 22:34:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/workshops/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>IoT Sensoren</title>
+        <link>http://localhost:1313/post/iot-sensoren/</link>
+        <pubDate>Tue, 21 Oct 2025 22:34:44 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/iot-sensoren/</guid>
+        <description>&lt;img src="http://localhost:1313/post/iot-sensoren/image.jpg" alt="Featured image of post IoT Sensoren" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;In deze workshop gegeven door Bas op ten Berg bij SPARK Lab, hebben we kennis gemaakt met de Arduino. We gebruikten deze microcontroller om verschillende vormen van data uit te lezen (geluid, licht, temperatuur). Tussendoor kregen we nog een snelle rondleiding door het SPARK Lab, waar we uitgenodigd werden om gebruik te maken van de verschillende tools en apparatuur die ze in hun beschikking hebben. Tot slot kwam dit samen met de leerstof van de eerste IoT workshop, de Raspberry Pi en MQTT.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan een Arduino koppelen aan de Raspberry Pi, inclusief het uitlezen en versturen van data via MQTT.&lt;/li&gt;
+&lt;li&gt;Ik kan met een Arduino verschillende sensoren gebruiken om data uit te lezen. Waaronder temperatuur, licht en geluidsdruk.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Deze workshop had veel raakvlakken met mijn opleiding tot Software Engineer. De Arduino werd namelijk geprogrammeerd via een C++-achtige taal en hierbij kwamen verschillende programmeringsconcepten aan bod zoals variabelen, functies en loops. Dit zijn voor mij geen nieuwe vaardigheden, maar ik had nog nooit een Arduino geprogrammeerd dus dat was wel nieuw.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;Het gebruik van afstands- en bewegingssensoren met een Arduino en Raspberry Pi heeft daarnaast ook zeker raakvlakken met predictive maintenance op een productielijn. Door sensoren te plaatsen op bewegende onderdelen, zoals lagers of transportbanden, kan continu data worden verzameld over positie, beweging en trillingen. Deze data kan via een protocol, zoals dus MQTT, worden doorgestuurd om afwijkingen of slijtage vroegtijdig te ontdekken. Op die manier kunnen storingen worden voorspeld en onderhoud gepland voordat er echte problemen ontstaan.&lt;/p&gt;
+&lt;p&gt;We zullen tijdens ons project zeer waarschijnlijk te maken krijgen met sensoren, data en MQTT. We hebben nog geen concrete oplossing maar toch is het goed om te weten welke mogelijkheden er zijn.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Ik vond dit een interessante workshop en ik zou mezelf hier zeker verder in willen verdiepen. Ik heb gekozen om voor mijn tweede persoonlijke leerdoel gebruik te maken van de Arduino en verschillende sensoren om een klein spelletje te maken. In dit spelletje zou je een raceauto besturen via een gyroscoop en een HC-SR04 (ultrasone sensor).&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>IoT Vandoren</title>
         <link>http://localhost:1313/post/iot-vandoren/</link>
         <pubDate>Tue, 21 Oct 2025 02:36:43 +0200</pubDate>
