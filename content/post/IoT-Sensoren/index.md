@@ -1,6 +1,6 @@
 +++
 date = '2025-10-21T22:34:44+02:00'
-draft = true
+draft = false
 title = 'IoT Sensoren'
 categories = ['IoT', 'Workshops']
 image = 'image.jpg'
