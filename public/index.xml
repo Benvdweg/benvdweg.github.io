@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>My Blog</title>
+        <title>Factory of The Future</title>
         <link>http://localhost:1313/</link>
-        <description>Recent content on My Blog</description>
+        <description>Recent content on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 08 Oct 2025 16:12:03 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Oct 2025 02:36:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>IoT Vandoren</title>
+        <link>http://localhost:1313/post/iot-vandoren/</link>
+        <pubDate>Tue, 21 Oct 2025 02:36:43 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/iot-vandoren/</guid>
+        <description>&lt;img src="http://localhost:1313/post/iot-vandoren/image.jpg" alt="Featured image of post IoT Vandoren" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;Bij de workshop gegeven door Vandoren werden we uitgedaagd om een bakkerij te runnen via een MQTT broker. We moesten, met vier verschillende &amp;ldquo;stations&amp;rdquo;, afspraken maken over een UNS en op deze manier berichten naar elkaar sturen en ontvangen.&lt;/p&gt;
+&lt;p&gt;Als packer heb ik veel gewacht totdat de processen vóór mij hun zaakjes op orde hadden. Uiteindelijk zijn we een heel eind gekomen en zijn er zeker een paar broodjes gebakken en verpakt. De grootste uitdaging zat vooral op het achterhalen welke kanalen de benodigde data verstuurden.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan een Uniform Namespace ontwerpen en toepassen om op een consistente en gestructureerde manier data tussen verschillende onderdelen van een productieproces te leiden.&lt;/li&gt;
+&lt;li&gt;Ik kan een Raspberry Pi met Nodered gebruiken om communicatie tussen meerdere stations op te zetten binnen een gezamenlijk systeem.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Binnen mijn opleiding tot Software Engineer heb ik al eerder met een MQTT broker gewerkt, dus het sloot goed aan bij mijn syllabus maar was niet echt nieuw voor mij. Wat ik wel interessant en nieuw vond in de presentatie van Roger van Vandoren waren de Microsoft Certificaten die hij noemde. Dat is zeker iets waar ik me verder in ga verdiepen.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;In mijn project (toevallig begeleid door Vandoren) staat predictive maintence centraal. Hoewel we nog geen concrete oplossing hebben verzonnen, speelt MQTT vaak een belangrijke rol in dit soort systemen. Sensoren op machines (zoals trillingen en temperatuur) sturen data via MQTT naar een centrale broker, waar het geanalyseerd wordt om problemen te voorspellen.&lt;/p&gt;
+&lt;p&gt;Het protocol is goed voor IoT-apparaten met beperkte bandbreedte en zorgt voor real-time monitoring. Een koffertje met sensoren zou bijvoorbeeld als MQTT client lokaal data kunnen verzamelen en doorsturen voor analyse. MQTT vormt de communicatie-laag die nodig is voor predictive maintenance oplossingen.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Zoals eerder benoemd in het stukje &amp;ldquo;opleiding&amp;rdquo;, spraken de certificeringsmogelijkheden bij Microsoft mij zeker aan. Dit soort certificaten kunnen zeker waardevol zijn binnen mijn carrière in software development, dus daar ga ik me zeker verder in verdiepen. De wereld van de cloud lijkt mij met name waardevol om meer over te leren.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>About</title>
         <link>http://localhost:1313/page/about/</link>
         <pubDate>Wed, 08 Oct 2025 16:12:03 +0200</pubDate>
