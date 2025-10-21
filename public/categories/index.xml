@@ -6,12 +6,20 @@
         <description>Recent content in Categories on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Technology</title>
-        <link>http://localhost:1313/categories/technology/</link>
-        <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 21 Oct 2025 02:36:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>IoT</title>
+        <link>http://localhost:1313/categories/iot/</link>
+        <pubDate>Tue, 21 Oct 2025 02:36:43 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/technology/</guid>
+        <guid>http://localhost:1313/categories/iot/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Workshops</title>
+        <link>http://localhost:1313/categories/workshops/</link>
+        <pubDate>Tue, 21 Oct 2025 02:36:43 +0200</pubDate>
+        
+        <guid>http://localhost:1313/categories/workshops/</guid>
         <description></description>
         </item>
         

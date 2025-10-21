@@ -21,7 +21,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: A simple blog about my thoughts
+        subtitle: De workshops gevolgd bij Factory of the Future.
         avatar:
             enabled: true
             local: true
