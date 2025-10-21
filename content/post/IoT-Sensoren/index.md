@@ -8,7 +8,7 @@ image = 'image.jpg'
 
 ## Samenvatting
 
-In deze workshop gegeven door Bas op ten Berg bij SPARK Lab, hebben we kennis gemaakt met de Arduino. We gebruikten deze microcontroller om verschillende vormen van data uit te lezen (geluid, licht, temperatuur). Tot slot kwam dit samen met de leerstof van de eerste IoT workshop, de Raspberry Pi en MQTT.
+In deze workshop gegeven door Bas op ten Berg bij SPARK Lab, hebben we kennis gemaakt met de Arduino. We gebruikten deze microcontroller om verschillende vormen van data uit te lezen (geluid, licht, temperatuur). Tussendoor kregen we nog een snelle rondleiding door het SPARK Lab, waar we uitgenodigd werden om gebruik te maken van de verschillende tools en apparatuur die ze in hun beschikking hebben. Tot slot kwam dit samen met de leerstof van de eerste IoT workshop, de Raspberry Pi en MQTT.
 
 ## Leerdoelen
 
