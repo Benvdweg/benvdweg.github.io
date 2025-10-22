@@ -6,7 +6,29 @@
         <description>Recent content in Workshops on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 21 Oct 2025 22:34:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/workshops/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Oct 2025 13:42:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/workshops/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mechatronics Concept Design</title>
+        <link>http://localhost:1313/post/mechatronics-concept-design/</link>
+        <pubDate>Wed, 22 Oct 2025 13:42:40 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/mechatronics-concept-design/</guid>
+        <description>&lt;img src="http://localhost:1313/post/mechatronics-concept-design/image.png" alt="Featured image of post Mechatronics Concept Design" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;Deze workshop werd gegeven door Bas Verschuren, van Siemens Digital Industries, en ging over MCD. In Siemens NX gingen we aan de slag met het maken van een hele simpele transportband. Deze kleine opdracht was al best veel werk, er zijn veel opties, dus ik kan me niet voorstellen hoe mensen hier op grote schaal mee aan de slag gaan. Het lijkt me lastige software om mee te leren werken.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan een eenvoudige productielijn virtueel opzetten in MCD.&lt;/li&gt;
+&lt;li&gt;Ik kan via een virtuele simulatie in MCD bottlenecks identificeren.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Met mijn opleiding heeft dit geen raakvlakken. Ik doe de opleiding Informatica en daar komen dit soort technische bedrijfskundige onderdelen niet aan bod.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;MCD kan raakvlakken hebben met het predictive maintenance project bij Vandoren. Via een digital twin kun je een productielijn bouwen en leer je het normale gedrag van machines en processen kennen, zoals timing en snelheden. Deze virtuele omgeving kan je helpen te identificeren welke parameters kritisch zijn en waar bottlenecks of overbelasting kunnen ontstaan. Vervolgens kun je in de praktijk juist deze kritische punten monitoren met sensoren, zodat je degradatie vroegtijdig detecteert en onderhoud kunt voorspellen voordat er storingen optreden.&lt;/p&gt;
+&lt;p&gt;Deze aanpak is echter nog niet ter sprake gekomen tijdens de kennismaking met het bedrijf of de brainstormsessie, dus ik verwacht niet dat we deze tool nog gaan gebruiken.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Het was zeker leuk en de moeite waard om in een workshop met deze techniek te spelen, maar ik denk niet dat ik mezelf hier verder in ga verdiepen. Het heeft namelijk geen aansluiting op mijn opleiding&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>IoT Sensoren</title>
         <link>http://localhost:1313/post/iot-sensoren/</link>
         <pubDate>Tue, 21 Oct 2025 22:34:44 +0200</pubDate>
