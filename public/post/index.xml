@@ -6,7 +6,20 @@
         <description>Recent content in Posts on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 21 Oct 2025 22:34:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Oct 2025 13:42:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mechatronics Concept Design</title>
+        <link>http://localhost:1313/post/mechatronics-concept-design/</link>
+        <pubDate>Wed, 22 Oct 2025 13:42:40 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/mechatronics-concept-design/</guid>
+        <description>&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;h2 id=&#34;vediepen&#34;&gt;Vediepen
+&lt;/h2&gt;</description>
+        </item>
+        <item>
         <title>IoT Sensoren</title>
         <link>http://localhost:1313/post/iot-sensoren/</link>
         <pubDate>Tue, 21 Oct 2025 22:34:44 +0200</pubDate>
