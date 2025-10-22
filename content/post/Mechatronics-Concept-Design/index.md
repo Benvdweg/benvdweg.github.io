@@ -25,6 +25,6 @@ MCD kan raakvlakken hebben met het predictive maintenance project bij Vandoren. 
 
 Deze aanpak is echter nog niet ter sprake gekomen tijdens de kennismaking met het bedrijf of de brainstormsessie, dus ik verwacht niet dat we deze tool nog gaan gebruiken.
 
-## Vediepen
+## Verdiepen
 
 Het was zeker leuk en de moeite waard om in een workshop met deze techniek te spelen, maar ik denk niet dat ik mezelf hier verder in ga verdiepen. Het heeft namelijk geen aansluiting op mijn opleiding
