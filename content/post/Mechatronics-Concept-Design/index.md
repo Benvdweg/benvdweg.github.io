@@ -1,6 +1,6 @@
 +++
 date = '2025-10-22T13:42:40+02:00'
-draft = true
+draft = false
 title = 'Mechatronics Concept Design'
 image = 'image.png'
 categories = ['Product Design', 'Workshops']
