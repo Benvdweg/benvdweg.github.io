@@ -1,6 +1,6 @@
 +++
 date = '2025-09-19T01:06:05+02:00'
-draft = true
+draft = false
 title = 'Plant Simulation'
 image = "image.jpg"
 +++
