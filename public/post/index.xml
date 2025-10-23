@@ -11,15 +11,9 @@
         <link>http://localhost:1313/post/mixed-reality/</link>
         <pubDate>Mon, 06 Oct 2025 18:21:13 +0200</pubDate>
         
-<<<<<<< Updated upstream
         <guid>http://localhost:1313/post/mixed-reality/</guid>
         <description>&lt;img src="http://localhost:1313/post/mixed-reality/image.png" alt="Featured image of post Mixed Reality" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
 &lt;/h2&gt;&lt;p&gt;Tijdens deze workshop, begeleid door Doede Okkema op de BIC, gingen we aan de slag met Mixed Reality in Unity. Eerst was het ons via een duidelijk stappenplan gelukt om via onze telefoon een kubus tevoorschijn te toveren. Daarnaast wisten we live data uit een Raspberry Pi te halen en deze via een MQTT-broker te verbinden met onze Unity-app. Zo konden we live data weergeven op onze camera bij het scannen van een specifieke afbeelding.&lt;/p&gt;
-=======
-        <guid>http://localhost:1313/post/mechatronics-concept-design/</guid>
-        <description>&lt;img src="http://localhost:1313/post/mechatronics-concept-design/image.png" alt="Featured image of post Mechatronics Concept Design" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
-&lt;/h2&gt;&lt;p&gt;Deze workshop werd gegeven door Bas Verschuren, van Siemens Digital Industries, en ging over MCD. In Siemens NX gingen we aan de slag met het maken van een hele simpele transportband. Deze kleine opdracht was al best veel werk, er zijn veel opties, dus ik kan me niet voorstellen hoe mensen hier op grote schaal mee aan de slag gaan. Het lijkt me lastige software om mee te leren werken.&lt;/p&gt;
->>>>>>> Stashed changes
 &lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;Ik kan met de hulp van Unity een 3d-model weergeven op mijn camera als ik een specifieke afbeelding scan met mijn telefoon.&lt;/li&gt;
@@ -28,50 +22,10 @@
 &lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
 &lt;/h2&gt;&lt;p&gt;Deze workshop had wel enige raakvlakken met mijn opleiding. Hoewel VR of AR niet aan bod komen, heb ik wel eerder gewerkt met Unity voor een keuzevak. De basis van de software was dus voor mij al bekend.&lt;/p&gt;
 &lt;h2 id=&#34;project&#34;&gt;Project
-<<<<<<< Updated upstream
 &lt;/h2&gt;&lt;p&gt;AR en VR kunnen op veel verschillende manieren terugkomen in een slimme fabriek. Het onderwerp van mijn project is echter predictive maintenance en daar zal het geen rol spelen. Als je het heel fancy wilt maken, zou je via AR de plekken in de productielijn kunnen tonen die onderhoud nodig hebben, maar dat ligt ver buiten de scope van mijn project.&lt;/p&gt;
-=======
-&lt;/h2&gt;&lt;p&gt;MCD kan raakvlakken hebben met het predictive maintenance project bij Vandoren. Via een digital twin kun je een productielijn bouwen en leer je het normale gedrag van machines en processen kennen, zoals timing en snelheden. Deze virtuele omgeving kan je helpen te identificeren welke parameters kritisch zijn en waar bottlenecks of overbelasting kunnen ontstaan. Vervolgens kun je in de praktijk juist deze kritische punten monitoren met sensoren, zodat je degradatie vroegtijdig detecteert en onderhoud kunt voorspellen voordat er storingen optreden.&lt;/p&gt;
-&lt;p&gt;Deze aanpak is echter nog niet ter sprake gekomen tijdens de kennismaking met het bedrijf of de brainstormsessie, dus ik verwacht niet dat we deze tool nog gaan gebruiken.&lt;/p&gt;
-&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
-&lt;/h2&gt;&lt;p&gt;Het was zeker leuk en de moeite waard om in een workshop met deze techniek te spelen, maar ik denk niet dat ik mezelf hier verder in ga verdiepen. Het heeft namelijk geen aansluiting op mijn opleiding&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>IoT Sensoren</title>
-        <link>http://localhost:1313/post/iot-sensoren/</link>
-        <pubDate>Tue, 21 Oct 2025 22:34:44 +0200</pubDate>
-        
-        <guid>http://localhost:1313/post/iot-sensoren/</guid>
-        <description>&lt;img src="http://localhost:1313/post/iot-sensoren/image.jpg" alt="Featured image of post IoT Sensoren" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
-&lt;/h2&gt;&lt;p&gt;In deze workshop gegeven door Bas op ten Berg bij SPARK Lab, hebben we kennis gemaakt met de Arduino. We gebruikten deze microcontroller om verschillende vormen van data uit te lezen (geluid, licht, temperatuur). Tussendoor kregen we nog een snelle rondleiding door het SPARK Lab, waar we uitgenodigd werden om gebruik te maken van de verschillende tools en apparatuur die ze in hun beschikking hebben. Tot slot kwam dit samen met de leerstof van de eerste IoT workshop, de Raspberry Pi en MQTT.&lt;/p&gt;
-&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Ik kan een Arduino koppelen aan de Raspberry Pi, inclusief het uitlezen en versturen van data via MQTT.&lt;/li&gt;
-&lt;li&gt;Ik kan met een Arduino verschillende sensoren gebruiken om data uit te lezen. Waaronder temperatuur, licht en geluidsdruk.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
-&lt;/h2&gt;&lt;p&gt;Deze workshop had veel raakvlakken met mijn opleiding tot Software Engineer. De Arduino werd namelijk geprogrammeerd via een C++-achtige taal en hierbij kwamen verschillende programmeringsconcepten aan bod zoals variabelen, functies en loops. Dit zijn voor mij geen nieuwe vaardigheden, maar ik had nog nooit een Arduino geprogrammeerd dus dat was wel nieuw.&lt;/p&gt;
-&lt;h2 id=&#34;project&#34;&gt;Project
-&lt;/h2&gt;&lt;p&gt;Het gebruik van afstands- en bewegingssensoren met een Arduino en Raspberry Pi heeft daarnaast ook zeker raakvlakken met predictive maintenance op een productielijn. Door sensoren te plaatsen op bewegende onderdelen, zoals lagers of transportbanden, kan continu data worden verzameld over positie, beweging en trillingen. Deze data kan via een protocol, zoals dus MQTT, worden doorgestuurd om afwijkingen of slijtage vroegtijdig te ontdekken. Op die manier kunnen storingen worden voorspeld en onderhoud gepland voordat er echte problemen ontstaan.&lt;/p&gt;
-&lt;p&gt;We zullen tijdens ons project zeer waarschijnlijk te maken krijgen met sensoren, data en MQTT. We hebben nog geen concrete oplossing maar toch is het goed om te weten welke mogelijkheden er zijn.&lt;/p&gt;
->>>>>>> Stashed changes
 &lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
 &lt;/h2&gt;&lt;p&gt;Ik vond het een leuke workshop om aan te werken. Ik denk echter niet dat ik mezelf hier verder in zou willen verdiepen omdat de toepassingen buiten een fabriek toch wel beperkt zijn. Gelukkig heb ik binnen mijn Software Ontwikkeling-major nog het keuzevak Unity openstaan; daarin ga ik me dus nog wel verder verdiepen :).&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>ISA-95</title>
-        <link>http://localhost:1313/post/isa-95/</link>
-        <pubDate>Wed, 01 Oct 2025 13:42:40 +0200</pubDate>
-        
-        <guid>http://localhost:1313/post/isa-95/</guid>
-        <description>&lt;img src="http://localhost:1313/image.png" alt="Featured image of post ISA-95" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
-&lt;/h2&gt;&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
-&lt;/h2&gt;&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
-&lt;/h2&gt;&lt;h2 id=&#34;project&#34;&gt;Project
-&lt;/h2&gt;&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
-&lt;/h2&gt;</description>
         </item>
         
     </channel>
