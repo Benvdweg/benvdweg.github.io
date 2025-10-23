@@ -30,6 +30,14 @@
         <guid>http://localhost:1313/categories/iot/</guid>
         <description></description>
         </item>
+        <item>
+        <title>Big Data</title>
+        <link>http://localhost:1313/categories/big-data/</link>
+        <pubDate>Mon, 06 Oct 2025 18:21:13 +0200</pubDate>
+        
+        <guid>http://localhost:1313/categories/big-data/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>
