@@ -6,7 +6,15 @@
         <description>Recent content in Posts on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 22 Oct 2025 13:42:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 23 Oct 2025 17:30:50 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Internet of Things</title>
+        <link>http://localhost:1313/post/internet-of-things/</link>
+        <pubDate>Thu, 23 Oct 2025 17:30:50 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/internet-of-things/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Mechatronics Concept Design</title>
         <link>http://localhost:1313/post/mechatronics-concept-design/</link>
         <pubDate>Wed, 22 Oct 2025 13:42:40 +0200</pubDate>

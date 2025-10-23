@@ -1,5 +1,5 @@
 +++
-date = '2025-10-22T13:42:40+02:00'
+date = '2025-09-29T13:42:40+02:00'
 draft = false
 title = 'Mechatronics Concept Design'
 image = 'image.png'
