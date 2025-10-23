@@ -6,62 +6,23 @@
         <description>Recent content in Posts on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 23 Oct 2025 17:30:50 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Internet of Things</title>
-        <link>http://localhost:1313/post/internet-of-things/</link>
-        <pubDate>Thu, 23 Oct 2025 17:30:50 +0200</pubDate>
+        <lastBuildDate>Fri, 24 Oct 2025 01:06:05 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Plant Simulation</title>
+        <link>http://localhost:1313/post/plant-simulation/</link>
+        <pubDate>Fri, 24 Oct 2025 01:06:05 +0200</pubDate>
         
-        <guid>http://localhost:1313/post/internet-of-things/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Mechatronics Concept Design</title>
-        <link>http://localhost:1313/post/mechatronics-concept-design/</link>
-        <pubDate>Wed, 22 Oct 2025 13:42:40 +0200</pubDate>
-        
-        <guid>http://localhost:1313/post/mechatronics-concept-design/</guid>
-        <description>&lt;img src="http://localhost:1313/post/mechatronics-concept-design/image.png" alt="Featured image of post Mechatronics Concept Design" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
-&lt;/h2&gt;&lt;p&gt;Deze workshop werd gegeven door Bas Verschuren, van Siemens Digital Industries, en ging over MCD. In Siemens NX gingen we aan de slag met het maken van een hele simpele transportband. Deze kleine opdracht was al best veel werk, er zijn veel opties, dus ik kan me niet voorstellen hoe mensen hier op grote schaal mee aan de slag gaan. Het lijkt me lastige software om mee te leren werken.&lt;/p&gt;
-&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Ik kan een eenvoudige productielijn virtueel opzetten in MCD.&lt;/li&gt;
-&lt;li&gt;Ik kan via een virtuele simulatie in MCD bottlenecks identificeren.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
-&lt;/h2&gt;&lt;p&gt;Met mijn opleiding heeft dit geen raakvlakken. Ik doe de opleiding Informatica en daar komen dit soort technische bedrijfskundige onderdelen niet aan bod.&lt;/p&gt;
-&lt;h2 id=&#34;project&#34;&gt;Project
-&lt;/h2&gt;&lt;p&gt;MCD kan raakvlakken hebben met het predictive maintenance project bij Vandoren. Via een digital twin kun je een productielijn bouwen en leer je het normale gedrag van machines en processen kennen, zoals timing en snelheden. Deze virtuele omgeving kan je helpen te identificeren welke parameters kritisch zijn en waar bottlenecks of overbelasting kunnen ontstaan. Vervolgens kun je in de praktijk juist deze kritische punten monitoren met sensoren, zodat je degradatie vroegtijdig detecteert en onderhoud kunt voorspellen voordat er storingen optreden.&lt;/p&gt;
-&lt;p&gt;Deze aanpak is echter nog niet ter sprake gekomen tijdens de kennismaking met het bedrijf of de brainstormsessie, dus ik verwacht niet dat we deze tool nog gaan gebruiken.&lt;/p&gt;
-&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
-&lt;/h2&gt;&lt;p&gt;Het was zeker leuk en de moeite waard om in een workshop met deze techniek te spelen, maar ik denk niet dat ik mezelf hier verder in ga verdiepen. Het heeft namelijk geen aansluiting op mijn opleiding&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>IoT Sensoren</title>
-        <link>http://localhost:1313/post/iot-sensoren/</link>
-        <pubDate>Tue, 21 Oct 2025 22:34:44 +0200</pubDate>
-        
-        <guid>http://localhost:1313/post/iot-sensoren/</guid>
-        <description>&lt;img src="http://localhost:1313/post/iot-sensoren/image.jpg" alt="Featured image of post IoT Sensoren" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
-&lt;/h2&gt;&lt;p&gt;In deze workshop gegeven door Bas op ten Berg bij SPARK Lab, hebben we kennis gemaakt met de Arduino. We gebruikten deze microcontroller om verschillende vormen van data uit te lezen (geluid, licht, temperatuur). Tussendoor kregen we nog een snelle rondleiding door het SPARK Lab, waar we uitgenodigd werden om gebruik te maken van de verschillende tools en apparatuur die ze in hun beschikking hebben. Tot slot kwam dit samen met de leerstof van de eerste IoT workshop, de Raspberry Pi en MQTT.&lt;/p&gt;
-&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Ik kan een Arduino koppelen aan de Raspberry Pi, inclusief het uitlezen en versturen van data via MQTT.&lt;/li&gt;
-&lt;li&gt;Ik kan met een Arduino verschillende sensoren gebruiken om data uit te lezen. Waaronder temperatuur, licht en geluidsdruk.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
-&lt;/h2&gt;&lt;p&gt;Deze workshop had veel raakvlakken met mijn opleiding tot Software Engineer. De Arduino werd namelijk geprogrammeerd via een C++-achtige taal en hierbij kwamen verschillende programmeringsconcepten aan bod zoals variabelen, functies en loops. Dit zijn voor mij geen nieuwe vaardigheden, maar ik had nog nooit een Arduino geprogrammeerd dus dat was wel nieuw.&lt;/p&gt;
-&lt;h2 id=&#34;project&#34;&gt;Project
-&lt;/h2&gt;&lt;p&gt;Het gebruik van afstands- en bewegingssensoren met een Arduino en Raspberry Pi heeft daarnaast ook zeker raakvlakken met predictive maintenance op een productielijn. Door sensoren te plaatsen op bewegende onderdelen, zoals lagers of transportbanden, kan continu data worden verzameld over positie, beweging en trillingen. Deze data kan via een protocol, zoals dus MQTT, worden doorgestuurd om afwijkingen of slijtage vroegtijdig te ontdekken. Op die manier kunnen storingen worden voorspeld en onderhoud gepland voordat er echte problemen ontstaan.&lt;/p&gt;
-&lt;p&gt;We zullen tijdens ons project zeer waarschijnlijk te maken krijgen met sensoren, data en MQTT. We hebben nog geen concrete oplossing maar toch is het goed om te weten welke mogelijkheden er zijn.&lt;/p&gt;
-&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
-&lt;/h2&gt;&lt;p&gt;Ik vond dit een interessante workshop en ik zou mezelf hier zeker verder in willen verdiepen. Ik heb gekozen om voor mijn tweede persoonlijke leerdoel gebruik te maken van de Arduino en verschillende sensoren om een klein spelletje te maken. In dit spelletje zou je een raceauto besturen via een gyroscoop en een HC-SR04 (ultrasone sensor).&lt;/p&gt;
-</description>
+        <guid>http://localhost:1313/post/plant-simulation/</guid>
+        <description>&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;</description>
         </item>
         <item>
         <title>IoT Vandoren</title>
         <link>http://localhost:1313/post/iot-vandoren/</link>
-        <pubDate>Tue, 21 Oct 2025 02:36:43 +0200</pubDate>
+        <pubDate>Fri, 10 Oct 2025 02:36:43 +0200</pubDate>
         
         <guid>http://localhost:1313/post/iot-vandoren/</guid>
         <description>&lt;img src="http://localhost:1313/post/iot-vandoren/image.jpg" alt="Featured image of post IoT Vandoren" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
@@ -100,6 +61,72 @@
 &lt;/h2&gt;&lt;p&gt;AR en VR kunnen op veel verschillende manieren terugkomen in een slimme fabriek. Het onderwerp van mijn project is echter predictive maintenance en daar zal het geen rol spelen. Als je het heel fancy wilt maken, zou je via AR de plekken in de productielijn kunnen tonen die onderhoud nodig hebben, maar dat ligt ver buiten de scope van mijn project.&lt;/p&gt;
 &lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
 &lt;/h2&gt;&lt;p&gt;Ik vond het een leuke workshop om aan te werken. Ik denk echter niet dat ik mezelf hier verder in zou willen verdiepen omdat de toepassingen buiten een fabriek toch wel beperkt zijn. Gelukkig heb ik binnen mijn Software Ontwikkeling-major nog het keuzevak Unity openstaan; daarin ga ik me dus nog wel verder verdiepen :).&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mechatronics Concept Design</title>
+        <link>http://localhost:1313/post/mechatronics-concept-design/</link>
+        <pubDate>Mon, 29 Sep 2025 13:42:40 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/mechatronics-concept-design/</guid>
+        <description>&lt;img src="http://localhost:1313/post/mechatronics-concept-design/image.png" alt="Featured image of post Mechatronics Concept Design" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;Deze workshop werd gegeven door Bas Verschuren, van Siemens Digital Industries, en ging over MCD. In Siemens NX gingen we aan de slag met het maken van een hele simpele transportband. Deze kleine opdracht was al best veel werk, er zijn veel opties, dus ik kan me niet voorstellen hoe mensen hier op grote schaal mee aan de slag gaan. Het lijkt me lastige software om mee te leren werken.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan een eenvoudige productielijn virtueel opzetten in MCD.&lt;/li&gt;
+&lt;li&gt;Ik kan via een virtuele simulatie in MCD bottlenecks identificeren.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Met mijn opleiding heeft dit geen raakvlakken. Ik doe de opleiding Informatica en daar komen dit soort technische bedrijfskundige onderdelen niet aan bod.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;MCD kan raakvlakken hebben met het predictive maintenance project bij Vandoren. Via een digital twin kun je een productielijn bouwen en leer je het normale gedrag van machines en processen kennen, zoals timing en snelheden. Deze virtuele omgeving kan je helpen te identificeren welke parameters kritisch zijn en waar bottlenecks of overbelasting kunnen ontstaan. Vervolgens kun je in de praktijk juist deze kritische punten monitoren met sensoren, zodat je degradatie vroegtijdig detecteert en onderhoud kunt voorspellen voordat er storingen optreden.&lt;/p&gt;
+&lt;p&gt;Deze aanpak is echter nog niet ter sprake gekomen tijdens de kennismaking met het bedrijf of de brainstormsessie, dus ik verwacht niet dat we deze tool nog gaan gebruiken.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Het was zeker leuk en de moeite waard om in een workshop met deze techniek te spelen, maar ik denk niet dat ik mezelf hier verder in ga verdiepen. Het heeft namelijk geen aansluiting op mijn opleiding&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>IoT Sensoren</title>
+        <link>http://localhost:1313/post/iot-sensoren/</link>
+        <pubDate>Wed, 24 Sep 2025 22:34:44 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/iot-sensoren/</guid>
+        <description>&lt;img src="http://localhost:1313/post/iot-sensoren/image.jpg" alt="Featured image of post IoT Sensoren" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;In deze workshop gegeven door Bas op ten Berg bij SPARK Lab, hebben we kennis gemaakt met de Arduino. We gebruikten deze microcontroller om verschillende vormen van data uit te lezen (geluid, licht, temperatuur). Tussendoor kregen we nog een snelle rondleiding door het SPARK Lab, waar we uitgenodigd werden om gebruik te maken van de verschillende tools en apparatuur die ze in hun beschikking hebben. Tot slot kwam dit samen met de leerstof van de eerste IoT workshop, de Raspberry Pi en MQTT.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan een Arduino koppelen aan de Raspberry Pi, inclusief het uitlezen en versturen van data via MQTT.&lt;/li&gt;
+&lt;li&gt;Ik kan met een Arduino verschillende sensoren gebruiken om data uit te lezen. Waaronder temperatuur, licht en geluidsdruk.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Deze workshop had veel raakvlakken met mijn opleiding tot Software Engineer. De Arduino werd namelijk geprogrammeerd via een C++-achtige taal en hierbij kwamen verschillende programmeringsconcepten aan bod zoals variabelen, functies en loops. Dit zijn voor mij geen nieuwe vaardigheden, maar ik had nog nooit een Arduino geprogrammeerd dus dat was wel nieuw.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;Het gebruik van afstands- en bewegingssensoren met een Arduino en Raspberry Pi heeft daarnaast ook zeker raakvlakken met predictive maintenance op een productielijn. Door sensoren te plaatsen op bewegende onderdelen, zoals lagers of transportbanden, kan continu data worden verzameld over positie, beweging en trillingen. Deze data kan via een protocol, zoals dus MQTT, worden doorgestuurd om afwijkingen of slijtage vroegtijdig te ontdekken. Op die manier kunnen storingen worden voorspeld en onderhoud gepland voordat er echte problemen ontstaan.&lt;/p&gt;
+&lt;p&gt;We zullen tijdens ons project zeer waarschijnlijk te maken krijgen met sensoren, data en MQTT. We hebben nog geen concrete oplossing maar toch is het goed om te weten welke mogelijkheden er zijn.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Ik vond dit een interessante workshop en ik zou mezelf hier zeker verder in willen verdiepen. Ik heb gekozen om voor mijn tweede persoonlijke leerdoel gebruik te maken van de Arduino en verschillende sensoren om een klein spelletje te maken. In dit spelletje zou je een raceauto besturen via een gyroscoop en een HC-SR04 (ultrasone sensor).&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Internet of Things</title>
+        <link>http://localhost:1313/post/internet-of-things/</link>
+        <pubDate>Mon, 08 Sep 2025 17:30:50 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/internet-of-things/</guid>
+        <description>&lt;img src="http://localhost:1313/post/internet-of-things/image.jpg" alt="Featured image of post Internet of Things" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;In deze workshop, begeleid door Doede Okkema op de BIC, kregen we een introductie tot IoT, Node-RED, de Raspberry Pi en IoT. We begonnen met de simpele besturing van een LED-lampje.&lt;/p&gt;
+&lt;p&gt;Vervolgens breidden we dit uit door Node-RED te gebruiken, een visuele programmeeromgeving waarmee je eenvoudig flows kunt maken via drag-and-drop om een Raspberry Pi flow te maken. Uiteindelijk hebben we dit gekoppeld aan een mobiele app, zodat we de Raspberry Pi en de aangesloten apparaten vanaf onze telefoon konden bedienen.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan met een Raspbery Pi de temperatuur uitlezen en deze versturen via een MQTT-kanaal.&lt;/li&gt;
+&lt;li&gt;Ik kan via mijn telefoon verbinding maken met de Raspberry Pi met behulp van MQTT.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Deze workshop heeft een aantal raakvlakken met mijn opleiding Informatica. Hoewel we in de opleiding niet met een Raspberry Pi hebben gewerkt, zijn de onderliggende concepten zoals het MQTT-protocol en het verwerken van data al bekend terrein. Het gebruik van sensoren, het uitlezen van data en het verzenden van deze data naar een dashboard raakt onderwerpen aan zoals programmeren, netwerken en data-analyse, die we tijdens de opleiding uitgebereid behandelen.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;Deze workshop is zeer relevant voor mijn project over predictive maintenance. In het project moeten we data van sensoren verzamelen en naar een dashboard sturen, eigenlijk precies wat we tijdens de workshop met de Raspberry Pi en MQTT hebben geoefend. Het helpt me te begrijpen hoe je data real-time kunt uitlezen, verzenden en verwerken, wat essentieel is om voorspellingen te doen over onderhoud. We gaan waarschijnlijk geen microcomputer gebruiken zoals de Raspberry Pi, maar toch blijven de vaardigheden relevant.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Ik denk dat ik mezelf hier wel verder in wil verdiepen. Het past namelijk goed binnen mijn opleiding en vakgebied. Ik vond het een leuk om met deze technologie te spelen. Ik denk dat ik dit ga verwerken in een van de leerdoelen, misschien met meerdere sensoren of andere toepassingen.&lt;/p&gt;
 </description>
         </item>
         
