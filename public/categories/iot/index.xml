@@ -6,10 +6,33 @@
         <description>Recent content in IoT on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 21 Oct 2025 22:34:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/iot/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 10 Oct 2025 02:36:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/iot/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>IoT Vandoren</title>
+        <link>http://localhost:1313/post/iot-vandoren/</link>
+        <pubDate>Fri, 10 Oct 2025 02:36:43 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/iot-vandoren/</guid>
+        <description>&lt;img src="http://localhost:1313/post/iot-vandoren/image.jpg" alt="Featured image of post IoT Vandoren" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;Bij de workshop gegeven door Vandoren werden we uitgedaagd om een bakkerij te runnen via een MQTT broker. We moesten, met vier verschillende &amp;ldquo;stations&amp;rdquo;, afspraken maken over een UNS en op deze manier berichten naar elkaar sturen en ontvangen.&lt;/p&gt;
+&lt;p&gt;Als packer heb ik veel gewacht totdat de processen vóór mij hun zaakjes op orde hadden. Uiteindelijk zijn we een heel eind gekomen en zijn er zeker een paar broodjes gebakken en verpakt. De grootste uitdaging zat vooral op het achterhalen welke kanalen de benodigde data verstuurden.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan een Uniform Namespace ontwerpen en toepassen om op een consistente en gestructureerde manier data tussen verschillende onderdelen van een productieproces te leiden.&lt;/li&gt;
+&lt;li&gt;Ik kan een Raspberry Pi met Nodered gebruiken om communicatie tussen meerdere stations op te zetten binnen een gezamenlijk systeem.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Binnen mijn opleiding tot Software Engineer heb ik al eerder met een MQTT broker gewerkt, dus het sloot goed aan bij mijn syllabus maar was niet echt nieuw voor mij. Wat ik wel interessant en nieuw vond in de presentatie van Roger van Vandoren waren de Microsoft Certificaten die hij noemde. Dat is zeker iets waar ik me verder in ga verdiepen.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;In mijn project (toevallig begeleid door Vandoren) staat predictive maintence centraal. Hoewel we nog geen concrete oplossing hebben verzonnen, speelt MQTT vaak een belangrijke rol in dit soort systemen. Sensoren op machines (zoals trillingen en temperatuur) sturen data via MQTT naar een centrale broker, waar het geanalyseerd wordt om problemen te voorspellen.&lt;/p&gt;
+&lt;p&gt;Het protocol is goed voor IoT-apparaten met beperkte bandbreedte en zorgt voor real-time monitoring. Een koffertje met sensoren zou bijvoorbeeld als MQTT client lokaal data kunnen verzamelen en doorsturen voor analyse. MQTT vormt de communicatie-laag die nodig is voor predictive maintenance oplossingen.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Zoals eerder benoemd in het stukje &amp;ldquo;opleiding&amp;rdquo;, spraken de certificeringsmogelijkheden bij Microsoft mij zeker aan. Dit soort certificaten kunnen zeker waardevol zijn binnen mijn carrière in software development, dus daar ga ik me zeker verder in verdiepen. De wereld van de cloud lijkt mij met name waardevol om meer over te leren.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>IoT Sensoren</title>
         <link>http://localhost:1313/post/iot-sensoren/</link>
-        <pubDate>Tue, 21 Oct 2025 22:34:44 +0200</pubDate>
+        <pubDate>Wed, 24 Sep 2025 22:34:44 +0200</pubDate>
         
         <guid>http://localhost:1313/post/iot-sensoren/</guid>
         <description>&lt;img src="http://localhost:1313/post/iot-sensoren/image.jpg" alt="Featured image of post IoT Sensoren" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
@@ -29,26 +52,25 @@
 </description>
         </item>
         <item>
-        <title>IoT Vandoren</title>
-        <link>http://localhost:1313/post/iot-vandoren/</link>
-        <pubDate>Tue, 21 Oct 2025 02:36:43 +0200</pubDate>
+        <title>Internet of Things</title>
+        <link>http://localhost:1313/post/internet-of-things/</link>
+        <pubDate>Mon, 08 Sep 2025 17:30:50 +0200</pubDate>
         
-        <guid>http://localhost:1313/post/iot-vandoren/</guid>
-        <description>&lt;img src="http://localhost:1313/post/iot-vandoren/image.jpg" alt="Featured image of post IoT Vandoren" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
-&lt;/h2&gt;&lt;p&gt;Bij de workshop gegeven door Vandoren werden we uitgedaagd om een bakkerij te runnen via een MQTT broker. We moesten, met vier verschillende &amp;ldquo;stations&amp;rdquo;, afspraken maken over een UNS en op deze manier berichten naar elkaar sturen en ontvangen.&lt;/p&gt;
-&lt;p&gt;Als packer heb ik veel gewacht totdat de processen vóór mij hun zaakjes op orde hadden. Uiteindelijk zijn we een heel eind gekomen en zijn er zeker een paar broodjes gebakken en verpakt. De grootste uitdaging zat vooral op het achterhalen welke kanalen de benodigde data verstuurden.&lt;/p&gt;
+        <guid>http://localhost:1313/post/internet-of-things/</guid>
+        <description>&lt;img src="http://localhost:1313/post/internet-of-things/image.jpg" alt="Featured image of post Internet of Things" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;In deze workshop, begeleid door Doede Okkema op de BIC, kregen we een introductie tot IoT, Node-RED, de Raspberry Pi en IoT. We begonnen met de simpele besturing van een LED-lampje.&lt;/p&gt;
+&lt;p&gt;Vervolgens breidden we dit uit door Node-RED te gebruiken, een visuele programmeeromgeving waarmee je eenvoudig flows kunt maken via drag-and-drop om een Raspberry Pi flow te maken. Uiteindelijk hebben we dit gekoppeld aan een mobiele app, zodat we de Raspberry Pi en de aangesloten apparaten vanaf onze telefoon konden bedienen.&lt;/p&gt;
 &lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
 &lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Ik kan een Uniform Namespace ontwerpen en toepassen om op een consistente en gestructureerde manier data tussen verschillende onderdelen van een productieproces te leiden.&lt;/li&gt;
-&lt;li&gt;Ik kan een Raspberry Pi met Nodered gebruiken om communicatie tussen meerdere stations op te zetten binnen een gezamenlijk systeem.&lt;/li&gt;
+&lt;li&gt;Ik kan met een Raspbery Pi de temperatuur uitlezen en deze versturen via een MQTT-kanaal.&lt;/li&gt;
+&lt;li&gt;Ik kan via mijn telefoon verbinding maken met de Raspberry Pi met behulp van MQTT.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
-&lt;/h2&gt;&lt;p&gt;Binnen mijn opleiding tot Software Engineer heb ik al eerder met een MQTT broker gewerkt, dus het sloot goed aan bij mijn syllabus maar was niet echt nieuw voor mij. Wat ik wel interessant en nieuw vond in de presentatie van Roger van Vandoren waren de Microsoft Certificaten die hij noemde. Dat is zeker iets waar ik me verder in ga verdiepen.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;Deze workshop heeft een aantal raakvlakken met mijn opleiding Informatica. Hoewel we in de opleiding niet met een Raspberry Pi hebben gewerkt, zijn de onderliggende concepten zoals het MQTT-protocol en het verwerken van data al bekend terrein. Het gebruik van sensoren, het uitlezen van data en het verzenden van deze data naar een dashboard raakt onderwerpen aan zoals programmeren, netwerken en data-analyse, die we tijdens de opleiding uitgebereid behandelen.&lt;/p&gt;
 &lt;h2 id=&#34;project&#34;&gt;Project
-&lt;/h2&gt;&lt;p&gt;In mijn project (toevallig begeleid door Vandoren) staat predictive maintence centraal. Hoewel we nog geen concrete oplossing hebben verzonnen, speelt MQTT vaak een belangrijke rol in dit soort systemen. Sensoren op machines (zoals trillingen en temperatuur) sturen data via MQTT naar een centrale broker, waar het geanalyseerd wordt om problemen te voorspellen.&lt;/p&gt;
-&lt;p&gt;Het protocol is goed voor IoT-apparaten met beperkte bandbreedte en zorgt voor real-time monitoring. Een koffertje met sensoren zou bijvoorbeeld als MQTT client lokaal data kunnen verzamelen en doorsturen voor analyse. MQTT vormt de communicatie-laag die nodig is voor predictive maintenance oplossingen.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;Deze workshop is zeer relevant voor mijn project over predictive maintenance. In het project moeten we data van sensoren verzamelen en naar een dashboard sturen, eigenlijk precies wat we tijdens de workshop met de Raspberry Pi en MQTT hebben geoefend. Het helpt me te begrijpen hoe je data real-time kunt uitlezen, verzenden en verwerken, wat essentieel is om voorspellingen te doen over onderhoud. We gaan waarschijnlijk geen microcomputer gebruiken zoals de Raspberry Pi, maar toch blijven de vaardigheden relevant.&lt;/p&gt;
 &lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
-&lt;/h2&gt;&lt;p&gt;Zoals eerder benoemd in het stukje &amp;ldquo;opleiding&amp;rdquo;, spraken de certificeringsmogelijkheden bij Microsoft mij zeker aan. Dit soort certificaten kunnen zeker waardevol zijn binnen mijn carrière in software development, dus daar ga ik me zeker verder in verdiepen. De wereld van de cloud lijkt mij met name waardevol om meer over te leren.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;Ik denk dat ik mezelf hier wel verder in wil verdiepen. Het past namelijk goed binnen mijn opleiding en vakgebied. Ik vond het een leuk om met deze technologie te spelen. Ik denk dat ik dit ga verwerken in een van de leerdoelen, misschien met meerdere sensoren of andere toepassingen.&lt;/p&gt;
 </description>
         </item>
         
