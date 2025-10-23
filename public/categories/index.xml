@@ -30,14 +30,6 @@
         <guid>http://localhost:1313/categories/iot/</guid>
         <description></description>
         </item>
-        <item>
-        <title>Smart Factory</title>
-        <link>http://localhost:1313/categories/smart-factory/</link>
-        <pubDate>Wed, 01 Oct 2025 13:42:40 +0200</pubDate>
-        
-        <guid>http://localhost:1313/categories/smart-factory/</guid>
-        <description></description>
-        </item>
         
     </channel>
 </rss>
