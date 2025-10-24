@@ -6,7 +6,26 @@
         <description>Recent content in Workshops on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 10 Oct 2025 02:36:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/workshops/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 24 Oct 2025 16:18:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/workshops/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Omniverse</title>
+        <link>http://localhost:1313/post/omniverse/</link>
+        <pubDate>Fri, 24 Oct 2025 16:18:40 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/omniverse/</guid>
+        <description>&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;Tijdens deze workshop, gegeven door Jean-Pierre van Gastel en gesponsord door NVIDIA en HP, gingen we aan de slag met de NVIDIA Omniverse. Hierin kun je realistische 3D-omgevingen maken en simuleren zodat teams in real time kunnen samenwerken aan virtuele prototypes of digital twins. Als groot Pixar connoiseur vond ik het leuk om te horen dat dit mogelijk gemaakt werd door hun eigen ontwikkelde technologie, USD. Na een korte presentatie over de technologie en de voordelen van werken op GPU, ontdekten we samen met JP stap voor stap allerlei mogelijkheden binnen dit platform. Uiteindelijk wist ik, samen met met duo Chris, een mooie (buiten proportioneel grote) productielijn neer te zetten.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan via de NVIDIA Omniverse een Digital Twin maken van een productielijn om zo inzicht te krijgen in de processen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Aan het begin van de workshop leek het sterk aan te sluiten bij Informatica, omdat we gebruikmaakten van GitHub en Visual Studio Code. Gaandeweg bleek dit echter minder het geval, aangezien de focus vooral lag op 3D-modelleren, vergelijkbaar met tools zoals Siemens NX, PlantSim en Factory I/O. De presentatie bevatte in het begin nog enkele technische begrippen over computerhardware, maar daarmee hielden de raakvlakken met Informatica grotendeels op.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Het was een interessante workshop, maar net zoals bij de andere 3D-modellering workshops heeft het weinig aansluiting op mijn opleiding en vakgebied waardoor ik geen behoefte heb om mezelf hier verder in te verdiepen. Bovendien heb ik een AMD-videokaart in plaats van een NVIDIA, waardoor ik de software niet persoonlijk kan gebruiken.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>IoT Vandoren</title>
         <link>http://localhost:1313/post/iot-vandoren/</link>
         <pubDate>Fri, 10 Oct 2025 02:36:43 +0200</pubDate>
@@ -92,6 +111,28 @@
 &lt;p&gt;We zullen tijdens ons project zeer waarschijnlijk te maken krijgen met sensoren, data en MQTT. We hebben nog geen concrete oplossing maar toch is het goed om te weten welke mogelijkheden er zijn.&lt;/p&gt;
 &lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
 &lt;/h2&gt;&lt;p&gt;Ik vond dit een interessante workshop en ik zou mezelf hier zeker verder in willen verdiepen. Ik heb gekozen om voor mijn tweede persoonlijke leerdoel gebruik te maken van de Arduino en verschillende sensoren om een klein spelletje te maken. In dit spelletje zou je een raceauto besturen via een gyroscoop en een HC-SR04 (ultrasone sensor).&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Plant Simulation</title>
+        <link>http://localhost:1313/post/plant-simulation/</link>
+        <pubDate>Fri, 19 Sep 2025 01:06:05 +0200</pubDate>
+        
+        <guid>http://localhost:1313/post/plant-simulation/</guid>
+        <description>&lt;img src="http://localhost:1313/post/plant-simulation/image.jpg" alt="Featured image of post Plant Simulation" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;Deze workshop werd gegeven door Emixa en ging over PlantSim. Tijdens de workshop werden we stap voor stap begeleid door Maaike Grolle om een productielijn op te zetten in de PlantSim software. Uiteindelijk werden we ook uitgedaagd om zelf de bottlenecks te identificeren in een bestaande productielijn. Dit werd mij toch echter iets te uitdagend en is me niet gelukt 🙁.&lt;/p&gt;
+&lt;p&gt;Dit was voor mij een nieuwe ervaring dus ik vond het leuk om hier een middagje mee te spelen. Ik ben er achter gekomen hoe je visueel inzicht kunt krijgen in de werking van een fabriek. Daarnaast heb ik geleerd hoe je vervolgens de zwakke plekken kunt identificeren en verbeteringen kunt testen. Een soort Factorio.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan met behulp van software zoals PlantSim de werking van een productieproces visualiseren.&lt;/li&gt;
+&lt;li&gt;Ik kan op basis van de data die uit de simulatie komt, bottlenecks identificeren en verbeteringen maken.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Deze workshop richtte zich vooral op de maakindustrie en was zeer TBK-heavy. Ik kan eigenlijk geen raakvlakken verzinnen met de opleiding Informatica. We doen wel softwaremoddellering of systeemontwerp, maar nooit met dit soort 3D-software.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;In ons project, predictive maintenance bij Vandoren, zal dit niet heel relevant zijn. We hebben wel gezien hoe interne teams digital twins gebruiken in soortgelijke software om productielijnen op te stellen. Hier zullen we echet zelf weinig tot niet mee werken.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Ik vond het leuk om tijdens een workshop met deze techniek aan de slag te gaan, maar doordat dit weinig tot geen raakvlakken heeft met mijn opleiding of vakgebied ga ik mezelf hier niet verder in verdiepen.&lt;/p&gt;
 </description>
         </item>
         <item>
