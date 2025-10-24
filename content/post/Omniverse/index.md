@@ -3,6 +3,7 @@ date = '2025-10-24T16:18:40+02:00'
 draft = true
 title = 'Omniverse'
 categories = ["Smart Factory", "Workshops"]
+image = "image.jpg"
 +++
 
 ## Samenvatting

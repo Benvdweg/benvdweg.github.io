@@ -12,7 +12,7 @@
         <pubDate>Fri, 24 Oct 2025 16:18:40 +0200</pubDate>
         
         <guid>http://localhost:1313/post/omniverse/</guid>
-        <description>&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+        <description>&lt;img src="http://localhost:1313/post/omniverse/image.jpg" alt="Featured image of post Omniverse" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
 &lt;/h2&gt;&lt;p&gt;Tijdens deze workshop, gegeven door Jean-Pierre van Gastel en gesponsord door NVIDIA en HP, gingen we aan de slag met de NVIDIA Omniverse. Hierin kun je realistische 3D-omgevingen maken en simuleren zodat teams in real time kunnen samenwerken aan virtuele prototypes of digital twins. Als groot Pixar connoiseur vond ik het leuk om te horen dat dit mogelijk gemaakt werd door hun eigen ontwikkelde technologie, USD. Na een korte presentatie over de technologie en de voordelen van werken op GPU, ontdekten we samen met JP stap voor stap allerlei mogelijkheden binnen dit platform. Uiteindelijk wist ik, samen met met duo Chris, een mooie (buiten proportioneel grote) productielijn neer te zetten.&lt;/p&gt;
 &lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
 &lt;/h2&gt;&lt;ol&gt;
