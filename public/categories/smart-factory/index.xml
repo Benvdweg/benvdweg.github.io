@@ -49,6 +49,31 @@
 &lt;/h2&gt;&lt;p&gt;Ik vond het leuk om tijdens een workshop met deze techniek aan de slag te gaan, maar doordat dit weinig tot geen raakvlakken heeft met mijn opleiding of vakgebied ga ik mezelf hier niet verder in verdiepen.&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Siemens</title>
+        <link>http://localhost:1313/post/siemens/</link>
+        <pubDate>Wed, 10 Sep 2025 00:42:56 +0100</pubDate>
+        
+        <guid>http://localhost:1313/post/siemens/</guid>
+        <description>&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;In de eerste week van de minor kregen we een rondleiding bij Siemens. Dit bestond uit een &amp;ldquo;interactieve tour&amp;rdquo; in hun &amp;ldquo;Experience Center&amp;rdquo;, geleid door Daniel Kofman. De hele sessie draaide om het tentoonstellen en het introduceren van het buzzword: hun Digital Twin software.&lt;/p&gt;
+&lt;p&gt;Om te laten zien dat dit niet alleen een marketing-term is, kwamen Sven Rademaker en studenten van raceteam InMotion demonstreren hoe zij deze software in de praktijk gebruiken om hun racewagen te simuleren en te verbeteren. De dag werd afgesloten met pizza&amp;rsquo;s.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan uitleggen wat Siemens bedoelt met hun &amp;ldquo;Digital Twin&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Ik kan een Digital Twin toepassen in de praktijk om een productieproces te verbeteren.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Als Software Engineer zijn simulaties en 3D-modellen niet nieuw. Wat Siemens een Digital Twin noemt, lijkt in de kern een zeer geavanceerde simulatie-omgeving.&lt;/p&gt;
+&lt;p&gt;Het staat haaks op de open-source tools (zoals Python libraries, open standaarden) die ik in mijn opleiding leer. Het is de OT-wereld die botst met mijn IT-achtergrond. Het is indrukwekkend, maar vooral een demonstratie van een gesloten ecosysteem waar je als buitenstaander niet zomaar &amp;ldquo;even&amp;rdquo; iets mee doet.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;De link met mijn project, predictive maintenance, is opzich wel duidelijk. Dit is een van de hoofddoelen van een Digital Twin: data uit de echte wereld koppelen aan het model om te simuleren, te testen en storingen te voorspellen.&lt;/p&gt;
+&lt;p&gt;Het voorbeeld van InMotion, dat de auto digitaal test, is hier een perfect voorbeeld van. Voor ons project is de Siemens-aanpak echter totale overkill. Wij proberen een Proof of Concept te bouwen met toegankelijke tools, terwijl Siemens hier een peperdure TRL 9-oplossing laat zien die bovendien compleet gesloten is. Het is interessant maar praktisch onbruikbaar voor ons project.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Het bezoek was indrukwekkend door de presentatie in het Experience Center. Toch bevestigt het vooral mijn kritische beeld van dit soort &amp;ldquo;Smart Industry&amp;rdquo; oplossingen. Je kunt je hier niet echt in verdiepen zoals je dat met een open-source library doet want je moet dure licenties en officiële trainingen kopen.&lt;/p&gt;
+&lt;p&gt;Ik ben meer geïnteresseerd in de principes achter de buzzwords. Hoe kun je de concepten van een Digital Twin toepassen met de tools die ik als Software Engineer tot mijn beschikking heb? Deze workshop liet de techniek zien, maar dan verpakt in een gesloten Siemens-doos.&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>
