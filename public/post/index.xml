@@ -6,7 +6,25 @@
         <description>Recent content in Posts on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 24 Oct 2025 16:18:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 05 Nov 2025 21:54:55 +0100</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Roadmapping</title>
+        <link>http://localhost:1313/post/roadmapping/</link>
+        <pubDate>Wed, 05 Nov 2025 21:54:55 +0100</pubDate>
+        
+        <guid>http://localhost:1313/post/roadmapping/</guid>
+        <description>&lt;img src="http://localhost:1313/post/roadmapping/image.jpg" alt="Featured image of post Roadmapping" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan Technology Readiness Levels gebruiken om de volwassenheid van een innovatie te beoordelen.&lt;/li&gt;
+&lt;li&gt;Ik kan roadmapping toepassen om vanuit een defenieerde trend een gefaseerde route naar een technologische toepassing te maken.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;Mijn project, predictive maintenance, is inderdaad geen &amp;ldquo;quick fix&amp;rdquo;. Dit is een technologie die in fases ontwikkelt wordt. Tijdens de projectfase zullen wij niet verder komen dan een Proof of Concept, een TLR van 3 of 4. Het maken van een roadmap dwong ons na te denken over de vervolgstappen. Het bedrijf zelf had hier geen beeld bij en ze hadden ook geen behoefte aan een roadmap van langer dan vijf jaar. De toepassing van deze workshop in het project is dus, naast de oplevering aan school, beperkt gebleven.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;</description>
+        </item>
+        <item>
         <title>Omniverse</title>
         <link>http://localhost:1313/post/omniverse/</link>
         <pubDate>Fri, 24 Oct 2025 16:18:40 +0200</pubDate>
