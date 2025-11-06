@@ -23,6 +23,6 @@ Dit is weer een goed voorbeeld van een workshop die volledig bestaat uit OT, en 
 
 Bij het predictive maintenance project van Vandoren gaat deze workshop geen rol spelen. Wij zijn gefocust op het gebruik van sensoren en het werken met data. Ik zie daarin geen toepassing voor het besturen van een robot arm.
 
-## Verdieping
+## Verdiepen
 
 Ik hoef me hier niet verder in te verdiepen, dit heeft namelijk weinig aansluiting bij mijn toekomste carriere. Een middagje spelen met de techniek was voldoende.

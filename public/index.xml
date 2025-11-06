@@ -36,7 +36,7 @@
 &lt;/h2&gt;&lt;p&gt;Dit is weer een goed voorbeeld van een workshop die volledig bestaat uit OT, en dus ver van mijn opleiding af ligt. Dat is echter wel een reden waarom ik voor deze minor gekozen heb, om de kans te krijgen met dit soort technieken te spelen. Ik vond het leuk om te doen, maar het past niet binnen mijn opleiding.&lt;/p&gt;
 &lt;h2 id=&#34;project&#34;&gt;Project
 &lt;/h2&gt;&lt;p&gt;Bij het predictive maintenance project van Vandoren gaat deze workshop geen rol spelen. Wij zijn gefocust op het gebruik van sensoren en het werken met data. Ik zie daarin geen toepassing voor het besturen van een robot arm.&lt;/p&gt;
-&lt;h2 id=&#34;verdieping&#34;&gt;Verdieping
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
 &lt;/h2&gt;&lt;p&gt;Ik hoef me hier niet verder in te verdiepen, dit heeft namelijk weinig aansluiting bij mijn toekomste carriere. Een middagje spelen met de techniek was voldoende.&lt;/p&gt;
 </description>
         </item>
@@ -220,7 +220,7 @@
 &lt;/h2&gt;&lt;p&gt;Deze workshop ging vooral over hardware en resource waste en dat lijkt in eerste instantie niet bij Informatica te passen. Toch is de link er zeker wel. Bij de hardware noemen we het grondstofschaarste en in software noemen we het inefficiënte code die onnodig veel CPU, geheugen en dus energie verbruikt in datacenters.&lt;/p&gt;
 &lt;h2 id=&#34;project&#34;&gt;Project
 &lt;/h2&gt;&lt;p&gt;De link met mijn project, predictive maintenance is er zeker. Deze workshop gaat over het voorkomen van verspilling, en predictive maintenance is daar een goed voorbeeld van. Het valt onder &amp;ldquo;R4: Repair&amp;rdquo;: repareren en levensduurverlenging. In plaats van een machine te laten draaien tot hij faalt (en dus laagwaardig gerecycled moet worden), grijp je met predictive maintenance proactief in.&lt;/p&gt;
-&lt;h2 id=&#34;verdieping&#34;&gt;Verdieping
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
 &lt;/h2&gt;&lt;p&gt;Ik hoef me hier niet verder in te verdiepen, toch is het &amp;ldquo;Right to Repair&amp;rdquo; goed om mee te nemen. Het laat zien dat software niet losstaat van dit probleem. Het softwarematig blokkeren van reparaties is een bewuste ontwerpkeuze die bij sommige bedrijven gemaakt wordt. Als toekomstig software engineer is dat een belangrijk ethisch dilemma, je code kan direct bijdragen aan de levensduur of veroudering van een product.&lt;/p&gt;
 </description>
         </item>

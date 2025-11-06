@@ -27,6 +27,6 @@ Deze workshop ging vooral over hardware en resource waste en dat lijkt in eerste
 
 De link met mijn project, predictive maintenance is er zeker. Deze workshop gaat over het voorkomen van verspilling, en predictive maintenance is daar een goed voorbeeld van. Het valt onder "R4: Repair": repareren en levensduurverlenging. In plaats van een machine te laten draaien tot hij faalt (en dus laagwaardig gerecycled moet worden), grijp je met predictive maintenance proactief in.
 
-## Verdieping
+## Verdiepen
 
 Ik hoef me hier niet verder in te verdiepen, toch is het "Right to Repair" goed om mee te nemen. Het laat zien dat software niet losstaat van dit probleem. Het softwarematig blokkeren van reparaties is een bewuste ontwerpkeuze die bij sommige bedrijven gemaakt wordt. Als toekomstig software engineer is dat een belangrijk ethisch dilemma, je code kan direct bijdragen aan de levensduur of veroudering van een product.
