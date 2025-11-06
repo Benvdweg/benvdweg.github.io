@@ -6,10 +6,10 @@
         <description>Recent content in Categories on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 31 Oct 2025 16:02:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 06 Nov 2025 16:25:21 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Smart Factory</title>
         <link>http://localhost:1313/categories/smart-factory/</link>
-        <pubDate>Fri, 31 Oct 2025 16:02:22 +0100</pubDate>
+        <pubDate>Thu, 06 Nov 2025 16:25:21 +0100</pubDate>
         
         <guid>http://localhost:1313/categories/smart-factory/</guid>
         <description></description>
@@ -17,7 +17,7 @@
         <item>
         <title>Workshops</title>
         <link>http://localhost:1313/categories/workshops/</link>
-        <pubDate>Fri, 31 Oct 2025 16:02:22 +0100</pubDate>
+        <pubDate>Thu, 06 Nov 2025 16:25:21 +0100</pubDate>
         
         <guid>http://localhost:1313/categories/workshops/</guid>
         <description></description>
@@ -28,6 +28,14 @@
         <pubDate>Fri, 10 Oct 2025 02:36:43 +0200</pubDate>
         
         <guid>http://localhost:1313/categories/iot/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Workshop</title>
+        <link>http://localhost:1313/categories/workshop/</link>
+        <pubDate>Wed, 08 Oct 2025 10:09:45 +0100</pubDate>
+        
+        <guid>http://localhost:1313/categories/workshop/</guid>
         <description></description>
         </item>
         <item>
@@ -44,14 +52,6 @@
         <pubDate>Mon, 29 Sep 2025 13:42:40 +0200</pubDate>
         
         <guid>http://localhost:1313/categories/product-design/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Workshop</title>
-        <link>http://localhost:1313/categories/workshop/</link>
-        <pubDate>Wed, 17 Sep 2025 21:54:55 +0100</pubDate>
-        
-        <guid>http://localhost:1313/categories/workshop/</guid>
         <description></description>
         </item>
         
