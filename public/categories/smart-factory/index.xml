@@ -28,6 +28,30 @@
 </description>
         </item>
         <item>
+        <title>ERP</title>
+        <link>http://localhost:1313/post/erp/</link>
+        <pubDate>Wed, 29 Oct 2025 20:13:57 +0100</pubDate>
+        
+        <guid>http://localhost:1313/post/erp/</guid>
+        <description>&lt;img src="http://localhost:1313/post/erp/image.webp" alt="Featured image of post ERP" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;Deze gastles kregen we van Eric Bakker (Supplydrive) en ging over ERP (Enterprise Resource Planning). Dit is de softwarematige bovenkant van de fabriek.&lt;/p&gt;
+&lt;p&gt;Hij vertelde ons hoe een ERP-systeem één groot, centraal systeem is dat alle belangrijke bedrijfsprocessen integreert in één centrale database. Het doel hiervan is dat alle afdelingen met één waarheid om fouten en misverstanden te voorkomen.&lt;/p&gt;
+&lt;p&gt;Om te bewijzen hoe goed hun product is, mochten twee leerlingen een snelle test doen. Hierbij werd vooral gedemonstreerd dat hun software zorgt voor veel tijdswinst.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan uitleggen wat een ERP-systeem is en welke rol het speelt binnen een productiebedrijf.&lt;/li&gt;
+&lt;li&gt;Ik kan de voordelen van een centrale database benoemen voor processen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Dit kun je wel zien als IT, maar het is de grote-bedrijven-IT. De workshop definieert de context waarbinnen mijn software moet functioneren. Mijn applicatie krijgt straks data uit het ERP (bijvoorbeeld een productieorder) en moet data terugsturen zoals bijvoorbeeld de status van die order.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;De link met het predictive maintenance project is niet gelijk duidelijk. Ons prototype kan wel worden uitgewerkt tot een slimme oplossing die automatisch berichten naar het ERP stuurt.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Ik ga geen ERP-consultant worden. Het was wel nuttig om deze &amp;ldquo;bovenkant&amp;rdquo; van de fabriek te begrijpen.&lt;/p&gt;
+&lt;p&gt;Het bevestigt dat mijn rol als software engineer in de industrie niet alleen het bouwen van nieuwe tools is, maar ook het integreren en koppelen met deze massieve, bestaande systemen. Je moet het ERP kennen om je data op de juiste plek te krijgen.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Omniverse</title>
         <link>http://localhost:1313/post/omniverse/</link>
         <pubDate>Fri, 24 Oct 2025 16:18:40 +0200</pubDate>
@@ -113,6 +137,28 @@
 &lt;/h2&gt;&lt;p&gt;In ons project, predictive maintenance bij Vandoren, zal dit niet heel relevant zijn. We hebben wel gezien hoe interne teams digital twins gebruiken in soortgelijke software om productielijnen op te stellen. Hier zullen we echet zelf weinig tot niet mee werken.&lt;/p&gt;
 &lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
 &lt;/h2&gt;&lt;p&gt;Ik vond het leuk om tijdens een workshop met deze techniek aan de slag te gaan, maar doordat dit weinig tot geen raakvlakken heeft met mijn opleiding of vakgebied ga ik mezelf hier niet verder in verdiepen.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FactoryIO</title>
+        <link>http://localhost:1313/post/factoryio/</link>
+        <pubDate>Mon, 15 Sep 2025 18:26:20 +0100</pubDate>
+        
+        <guid>http://localhost:1313/post/factoryio/</guid>
+        <description>&lt;img src="http://localhost:1313/post/factoryio/image.jpg" alt="Featured image of post FactoryIO" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;In deze workshop gegeven op de BIC gingen we aan de slag met Factory IO, dit was voor mij de eerste keer dat ik met PLC&amp;rsquo;s ging werken. Het doel was om een productielijn te programmeren zodat de onderdelen precies goed op elkaar zijn afgestemd, met bijbehorende software Control I/O. Hiervoor moesten we verschillende logica en tel blokken gebruiken.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan met Control I/O een basis PLC-programma maken met logica blokken.&lt;/li&gt;
+&lt;li&gt;Ik kan met Factory IO een gesimuleerde productielijn aansturen op basis van sensoren.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Deze workshop begint een interessant patroon in deze minor, het is namelijk het exacte spiegelbeeld van de eerdere workshop met Node-RED. In die workshop werd Node-RED geïntroduceerd als low-code tool, omdat veel OT-gerichte studenten geen programmeertaal beheersen. Nu, in deze OT-gerichte workshop, krijgen we Control I/O als een low-code tool omdat de IT-studenten (zoals ik) geen PLC-talen beheersen.&lt;/p&gt;
+&lt;p&gt;Het heeft namelijk ook weinig raakvlakken met mijn opleiding, eigenlijk helemaal geen. We gebruikten wel dezelfde term, &amp;ldquo;programmeren&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;De link met het predictive maintenance project is hier duidelijk denk ik. De data die ons PMK-systeem nodig heeft, wordt gegenereerd door de logica die we in deze workshop hebben gebouwd.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Ik ga me hier niet verder in verdiepen. PLC-programmeren is niet de kant die ik op wil als software engineer. Als ik ooit nog een derde leerdoel nodig heb denk ik wel dat ik hier naar ga kijken en wat de mogelijkheden zijn. Ik vond het namelijk wel boeiend om mee te spelen en een andere manier van programmeren te ontdekken.&lt;/p&gt;
 </description>
         </item>
         <item>
