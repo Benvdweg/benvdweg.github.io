@@ -8,7 +8,7 @@ image = "image.jpg"
 
 ## Samenvatting
 
-Deze workshop over ISA95 werd gegeven door Roger van Heugen van Vandoren. Het was een vrij abstracte en theoretische gastles over hoe je een slimme fabriek structureert en data-chaos beheerst die ontstaat door de verbinding tussen IT en OT.
+Deze workshop over ISA95 werd gegeven door Roger Heugen, Technisch Directeur bij Vandoren. Het was een vrij abstracte en theoretische gastles over hoe je een slimme fabriek structureert en data-chaos beheerst die ontstaat door de verbinding tussen IT en OT.
 
 Het hoofdonderwerp was ISA-95. Een soort blauwdruk voor de architectuur van fabrieken. Deze heeft verschillende lagen en die kunnen met elkaar communiceren, met als doel één waarheid te creëren. Zo werd bijvoorbeeld MQTT genoemd als een moderne manier om data uit te wisselen.
 
