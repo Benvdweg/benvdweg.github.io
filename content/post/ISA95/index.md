@@ -5,3 +5,13 @@ title = 'ISA95'
 categories = ["Smart Factory", "Workshops"]
 image = "image.jpg"
 +++
+
+## Samenvatting
+
+## Leerdoelen
+
+## Opleiding
+
+## Project
+
+## Verdiepen
