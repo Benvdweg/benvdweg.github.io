@@ -6,15 +6,7 @@
         <description>Recent content in Posts on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 06 Nov 2025 18:26:20 +0100</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>FactoryIO</title>
-        <link>http://localhost:1313/post/factoryio/</link>
-        <pubDate>Thu, 06 Nov 2025 18:26:20 +0100</pubDate>
-        
-        <guid>http://localhost:1313/post/factoryio/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Fri, 31 Oct 2025 16:02:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Yaskawa</title>
         <link>http://localhost:1313/post/yaskawa/</link>
         <pubDate>Fri, 31 Oct 2025 16:02:22 +0100</pubDate>
@@ -34,6 +26,14 @@
 &lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
 &lt;/h2&gt;&lt;p&gt;Ik hoef me hier niet verder in te verdiepen, dit heeft namelijk weinig aansluiting bij mijn toekomste carriere. Een middagje spelen met de techniek was voldoende.&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>ERP</title>
+        <link>http://localhost:1313/post/erp/</link>
+        <pubDate>Wed, 29 Oct 2025 20:13:57 +0100</pubDate>
+        
+        <guid>http://localhost:1313/post/erp/</guid>
+        <description></description>
         </item>
         <item>
         <title>Omniverse</title>
@@ -231,6 +231,28 @@
 &lt;/h2&gt;&lt;p&gt;Mijn project, predictive maintenance, is inderdaad geen &amp;ldquo;quick fix&amp;rdquo;. Dit is een technologie die in fases ontwikkelt wordt. Tijdens de projectfase zullen wij niet verder komen dan een Proof of Concept, een TLR van 3 of 4. Het maken van een roadmap dwong ons na te denken over de vervolgstappen. Het bedrijf zelf had hier geen beeld bij en ze hadden ook geen behoefte aan een roadmap van langer dan vijf jaar. De toepassing van deze workshop in het project is dus, naast de oplevering aan school, beperkt gebleven.&lt;/p&gt;
 &lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
 &lt;/h2&gt;&lt;p&gt;Dit is een containerbegrip waar je je moeilijk in kunt &amp;ldquo;verdiepen&amp;rdquo;. Waar ik wel benieuwd naar was is hoe dit tegenoveer de roadmapping staat zoals ik die ken vanuit mijn opleiding. Een duidelijke analogie die ik op het internet vond was dat een Technology Roadmap gaat over welk spel het bedrijf over vijf jaar wilt spelen, de agile roadmap zoals ik die ken gaat over hoe het bedrijf vandaag het spel wint.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FactoryIO</title>
+        <link>http://localhost:1313/post/factoryio/</link>
+        <pubDate>Mon, 15 Sep 2025 18:26:20 +0100</pubDate>
+        
+        <guid>http://localhost:1313/post/factoryio/</guid>
+        <description>&lt;img src="http://localhost:1313/post/factoryio/image.jpg" alt="Featured image of post FactoryIO" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;In deze workshop gegeven op de BIC gingen we aan de slag met Factory IO, dit was voor mij de eerste keer dat ik met PLC&amp;rsquo;s ging werken. Het doel was om een productielijn te programmeren zodat de onderdelen precies goed op elkaar zijn afgestemd, met bijbehorende software Control I/O. Hiervoor moesten we verschillende logica en tel blokken gebruiken.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan met Control I/O een basis PLC-programma maken met logica blokken.&lt;/li&gt;
+&lt;li&gt;Ik kan met Factory IO een gesimuleerde productielijn aansturen op basis van sensoren.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Deze workshop begint een interessant patroon in deze minor, het is namelijk het exacte spiegelbeeld van de eerdere workshop met Node-RED. In die workshop werd Node-RED geïntroduceerd als low-code tool, omdat veel OT-gerichte studenten geen programmeertaal beheersen. Nu, in deze OT-gerichte workshop, krijgen we Control I/O als een low-code tool omdat de IT-studenten (zoals ik) geen PLC-talen beheersen.&lt;/p&gt;
+&lt;p&gt;Het heeft namelijk ook weinig raakvlakken met mijn opleiding, eigenlijk helemaal geen. We gebruikten wel dezelfde term, &amp;ldquo;programmeren&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;De link met het predictive maintenance project is hier duidelijk denk ik. De data die ons PMK-systeem nodig heeft, wordt gegenereerd door de logica die we in deze workshop hebben gebouwd.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Ik ga me hier niet verder in verdiepen. PLC-programmeren is niet de kant die ik op wil als software engineer. Als ik ooit nog een derde leerdoel nodig heb denk ik wel dat ik hier naar ga kijken en wat de mogelijkheden zijn. Ik vond het namelijk wel boeiend om mee te spelen en een andere manier van programmeren te ontdekken.&lt;/p&gt;
 </description>
         </item>
         <item>

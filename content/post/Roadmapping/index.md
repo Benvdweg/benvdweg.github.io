@@ -3,7 +3,7 @@ date = '2025-09-17T21:54:55+01:00'
 draft = false
 title = 'Roadmapping'
 image = "image.jpg"
-categories = ["Workshops", "Product Design"]
+categories = ["Product Design"]
 +++
 
 ## Samenvatting

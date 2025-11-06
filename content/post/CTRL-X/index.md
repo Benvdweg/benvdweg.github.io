@@ -2,7 +2,7 @@
 date = '2025-10-08T10:09:45+01:00'
 draft = false
 title = 'CTRL-X'
-categories = ["Workshop", "Smart Factory"]
+categories = ["Smart Factory"]
 image = "image.jpg"
 +++
 

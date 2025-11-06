@@ -3,7 +3,7 @@ date = '2025-09-29T13:42:40+02:00'
 draft = false
 title = 'Mechatronics Concept Design'
 image = 'image.png'
-categories = ['Product Design', 'Workshops']
+categories = ['Product Design']
 +++
 
 ## Samenvatting

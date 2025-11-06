@@ -2,7 +2,7 @@
 date = '2025-10-06T18:21:13+02:00'
 draft = false
 title = 'Mixed Reality'
-categories = ['Big Data', 'Workshops']
+categories = ['Big Data']
 image = 'image.png'
 +++
 

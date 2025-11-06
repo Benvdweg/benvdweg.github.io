@@ -3,7 +3,7 @@ date = '2025-10-10T02:36:43+02:00'
 draft = false
 title = 'IoT Vandoren'
 image = 'image.jpg'
-categories = ['IoT', 'Workshops']
+categories = ['IoT']
 +++
 
 ## Samenvatting

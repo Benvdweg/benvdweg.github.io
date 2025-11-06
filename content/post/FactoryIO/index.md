@@ -3,7 +3,7 @@ date = '2025-09-15T18:26:20+01:00'
 draft = false
 title = 'FactoryIO'
 image = "image.jpg"
-categories = ["Workshop", "Smart Factory"]
+categories = ["Smart Factory"]
 +++
 
 ## Samenvatting

@@ -2,7 +2,7 @@
 date = '2025-09-19T01:06:05+02:00'
 draft = false
 title = 'Plant Simulation'
-categories = ['Smart Factory', 'Workshops']
+categories = ['Smart Factory']
 image = "image.jpg"
 +++
 
