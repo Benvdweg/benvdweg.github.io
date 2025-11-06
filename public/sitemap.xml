@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-06T02:47:51+01:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-31T16:02:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/factoryio/</loc>
-    <lastmod>2025-11-06T02:47:51+01:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-31T16:02:22+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-11-06T02:47:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-24T16:18:40+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/omniverse/</loc>
-    <lastmod>2025-10-24T16:18:40+02:00</lastmod>
+    <lastmod>2025-10-31T16:02:22+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/smart-factory/</loc>
-    <lastmod>2025-10-24T16:18:40+02:00</lastmod>
+    <lastmod>2025-10-31T16:02:22+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/workshops/</loc>
+    <lastmod>2025-10-31T16:02:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/yaskawa/</loc>
+    <lastmod>2025-10-31T16:02:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/omniverse/</loc>
     <lastmod>2025-10-24T16:18:40+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/iot/</loc>

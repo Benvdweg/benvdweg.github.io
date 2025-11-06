@@ -6,7 +6,16 @@
         <description>Recent content in Posts on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 24 Oct 2025 16:18:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 31 Oct 2025 16:02:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Yaskawa</title>
+        <link>http://localhost:1313/post/yaskawa/</link>
+        <pubDate>Fri, 31 Oct 2025 16:02:22 +0100</pubDate>
+        
+        <guid>http://localhost:1313/post/yaskawa/</guid>
+        <description>&lt;img src="http://localhost:1313/post/yaskawa/image.jpg" alt="Featured image of post Yaskawa" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;</description>
+        </item>
+        <item>
         <title>Omniverse</title>
         <link>http://localhost:1313/post/omniverse/</link>
         <pubDate>Fri, 24 Oct 2025 16:18:40 +0200</pubDate>
