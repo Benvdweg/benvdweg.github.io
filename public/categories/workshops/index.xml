@@ -6,20 +6,7 @@
         <description>Recent content in Workshops on Factory of The Future</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 06 Nov 2025 16:25:21 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/workshops/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>ISA95</title>
-        <link>http://localhost:1313/post/isa95/</link>
-        <pubDate>Thu, 06 Nov 2025 16:25:21 +0100</pubDate>
-        
-        <guid>http://localhost:1313/post/isa95/</guid>
-        <description>&lt;img src="http://localhost:1313/post/isa95/image.jpg" alt="Featured image of post ISA95" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
-&lt;/h2&gt;&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
-&lt;/h2&gt;&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
-&lt;/h2&gt;&lt;h2 id=&#34;project&#34;&gt;Project
-&lt;/h2&gt;&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
-&lt;/h2&gt;</description>
-        </item>
-        <item>
+        <lastBuildDate>Fri, 31 Oct 2025 16:02:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/workshops/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Yaskawa</title>
         <link>http://localhost:1313/post/yaskawa/</link>
         <pubDate>Fri, 31 Oct 2025 16:02:22 +0100</pubDate>
@@ -103,6 +90,29 @@
 &lt;/h2&gt;&lt;p&gt;AR en VR kunnen op veel verschillende manieren terugkomen in een slimme fabriek. Het onderwerp van mijn project is echter predictive maintenance en daar zal het geen rol spelen. Als je het heel fancy wilt maken, zou je via AR de plekken in de productielijn kunnen tonen die onderhoud nodig hebben, maar dat ligt ver buiten de scope van mijn project.&lt;/p&gt;
 &lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
 &lt;/h2&gt;&lt;p&gt;Ik vond het een leuke workshop om aan te werken. Ik denk echter niet dat ik mezelf hier verder in zou willen verdiepen omdat de toepassingen buiten een fabriek toch wel beperkt zijn. Gelukkig heb ik binnen mijn Software Ontwikkeling-major nog het keuzevak Unity openstaan; daarin ga ik me dus nog wel verder verdiepen :).&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ISA95</title>
+        <link>http://localhost:1313/post/isa95/</link>
+        <pubDate>Wed, 01 Oct 2025 16:25:21 +0100</pubDate>
+        
+        <guid>http://localhost:1313/post/isa95/</guid>
+        <description>&lt;img src="http://localhost:1313/post/isa95/image.jpg" alt="Featured image of post ISA95" /&gt;&lt;h2 id=&#34;samenvatting&#34;&gt;Samenvatting
+&lt;/h2&gt;&lt;p&gt;Deze workshop over ISA95 werd gegeven door Roger Heugen, Technisch Directeur bij Vandoren. Het was een vrij abstracte en theoretische gastles over hoe je een slimme fabriek structureert en data-chaos beheerst die ontstaat door de verbinding tussen IT en OT.&lt;/p&gt;
+&lt;p&gt;Het hoofdonderwerp was ISA-95. Een soort blauwdruk voor de architectuur van fabrieken. Deze heeft verschillende lagen en die kunnen met elkaar communiceren, met als doel één waarheid te creëren. Zo werd bijvoorbeeld MQTT genoemd als een moderne manier om data uit te wisselen.&lt;/p&gt;
+&lt;h2 id=&#34;leerdoelen&#34;&gt;Leerdoelen
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Ik kan uitleggen wat de ISA-95 standaard is en hoe het de lagen tussen IT en OT definieert.&lt;/li&gt;
+&lt;li&gt;Ik kan de rol van een MES in deze architectuur benoemen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;opleiding&#34;&gt;Opleiding
+&lt;/h2&gt;&lt;p&gt;Deze workshop staat verrassend ver weg van mijn opleiding als Software Engineer. Hoewel er veel bekende woorden en thema&amp;rsquo;s voorbij kwamen lopen de workshop en mijn opleiding eigenlijk precies langs elkaar heen. Het was een abstracte architectuurles. Dit is voor system integrators en management die bepalen hoe het systeem op hoog niveau gekoppeld moet worden. Het is het verschil tussen de timmerman (software developer) en de architect (ISA-95).&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;/h2&gt;&lt;p&gt;De link met mijn predictive maintenance project is er op architectuurniveau.&lt;/p&gt;
+&lt;p&gt;Onze sensoren zitten op de machine (Level 1/2). De data-analyse en de dashboards horen waarschijnlijk thuis in het MES-domein (Level 3) of hoger (Level 4, de cloud). Het helpt bepalen waar onze data vandaan komt (OT) en waar het naartoe moet (IT), en welke protocollen (zoals MQTT) je voor die verbinding kunt gebruiken. Wij moeten zelf ook de koppeling gaan maken tussen IT en OT, dus eigenlijk liet deze gastles het proces zien waar we al een paar weken mee bezig zijn geweest.&lt;/p&gt;
+&lt;h2 id=&#34;verdiepen&#34;&gt;Verdiepen
+&lt;/h2&gt;&lt;p&gt;Dit is geen onderwerp waar ik me verder in ga verdiepen. Het was een abstracte, die ver af staat van mijn interesses als softwareontwikkelaar. Het is nuttig om een keer gehoord te hebben, zodat je de management-taal van een fabriek begrijpt, maar het heeft geen aansluiting bij mijn toekomstige carrière. Als zij zorgen voor de blauwdrukken, hou ik me wel bezig met de implementatie.&lt;/p&gt;
 </description>
         </item>
         <item>

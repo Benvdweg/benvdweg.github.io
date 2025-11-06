@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
     <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="">
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Samenvatting\rIn deze workshop gegeven op de BIC gingen we aan de slag met Factory IO, dit was voor mij de eerste keer dat ik met PLC&rsquo;s ging werken. Het doel was om een productielijn te programmeren zodat de onderdelen precies goed op elkaar zijn afgestemd, met bijbehorende software Control I/O. Hiervoor moesten we verschillende logica en tel blokken gebruiken.\nLeerdoelen\rIk kan met Control I/O een basis PLC-programma maken met logica blokken. Ik kan met Factory IO een gesimuleerde productielijn aansturen op basis van sensoren. Opleiding\rDeze workshop begint een interessant patroon in deze minor, het is namelijk het exacte spiegelbeeld van de eerdere workshop met Node-RED. In die workshop werd Node-RED geïntroduceerd als low-code tool, omdat veel OT-gerichte studenten geen programmeertaal beheersen. Nu, in deze OT-gerichte workshop, krijgen we Control I/O als een low-code tool omdat de IT-studenten (zoals ik) geen PLC-talen beheersen.\n">
 <title>FactoryIO</title>
 
 <link rel='canonical' href='http://localhost:1313/post/factoryio/'>
 
 <link rel="stylesheet" href="/scss/style.min.b9c8156d464c343bdacaf14a871581fb94cbbdb9dd5cbce4ba017361187cc930.css"><meta property='og:title' content="FactoryIO">
-<meta property='og:description' content="">
+<meta property='og:description' content="Samenvatting\rIn deze workshop gegeven op de BIC gingen we aan de slag met Factory IO, dit was voor mij de eerste keer dat ik met PLC&rsquo;s ging werken. Het doel was om een productielijn te programmeren zodat de onderdelen precies goed op elkaar zijn afgestemd, met bijbehorende software Control I/O. Hiervoor moesten we verschillende logica en tel blokken gebruiken.\nLeerdoelen\rIk kan met Control I/O een basis PLC-programma maken met logica blokken. Ik kan met Factory IO een gesimuleerde productielijn aansturen op basis van sensoren. Opleiding\rDeze workshop begint een interessant patroon in deze minor, het is namelijk het exacte spiegelbeeld van de eerdere workshop met Node-RED. In die workshop werd Node-RED geïntroduceerd als low-code tool, omdat veel OT-gerichte studenten geen programmeertaal beheersen. Nu, in deze OT-gerichte workshop, krijgen we Control I/O als een low-code tool omdat de IT-studenten (zoals ik) geen PLC-talen beheersen.\n">
 <meta property='og:url' content='http://localhost:1313/post/factoryio/'>
 <meta property='og:site_name' content='Factory of The Future'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2025-11-06T02:47:51&#43;01:00'/><meta property='article:modified_time' content='2025-11-06T02:47:51&#43;01:00'/>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2025-09-15T18:26:20&#43;01:00'/><meta property='article:modified_time' content='2025-09-15T18:26:20&#43;01:00'/><meta property='og:image' content='http://localhost:1313/post/factoryio/image.jpg' />
 <meta name="twitter:title" content="FactoryIO">
-<meta name="twitter:description" content="">
+<meta name="twitter:description" content="Samenvatting\rIn deze workshop gegeven op de BIC gingen we aan de slag met Factory IO, dit was voor mij de eerste keer dat ik met PLC&rsquo;s ging werken. Het doel was om een productielijn te programmeren zodat de onderdelen precies goed op elkaar zijn afgestemd, met bijbehorende software Control I/O. Hiervoor moesten we verschillende logica en tel blokken gebruiken.\nLeerdoelen\rIk kan met Control I/O een basis PLC-programma maken met logica blokken. Ik kan met Factory IO een gesimuleerde productielijn aansturen op basis van sensoren. Opleiding\rDeze workshop begint een interessant patroon in deze minor, het is namelijk het exacte spiegelbeeld van de eerdere workshop met Node-RED. In die workshop werd Node-RED geïntroduceerd als low-code tool, omdat veel OT-gerichte studenten geen programmeertaal beheersen. Nu, in deze OT-gerichte workshop, krijgen we Control I/O als een low-code tool omdat de IT-studenten (zoals ik) geen PLC-talen beheersen.\n"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='http://localhost:1313/post/factoryio/image.jpg' />
     </head>
     <body class="
     article-page
@@ -124,13 +125,72 @@
     </ol>
 </aside>
 
-    
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#samenvatting">Samenvatting</a></li>
+    <li><a href="#leerdoelen">Leerdoelen</a></li>
+    <li><a href="#opleiding">Opleiding</a></li>
+    <li><a href="#project">Project</a></li>
+    <li><a href="#verdiepen">Verdiepen</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
 
             <main class="main full-width">
-    <article class="main-article">
+    <article class="has-image main-article">
     <header class="article-header">
+        <div class="article-image">
+            <a href="/post/factoryio/">
+                <img src="/post/factoryio/image_hu_d5ae34ded5365392.jpg"
+                        srcset="/post/factoryio/image_hu_d5ae34ded5365392.jpg 800w, /post/factoryio/image_hu_25676a0af28694b6.jpg 1600w"
+                        width="800" 
+                        height="450" 
+                        loading="lazy"
+                        alt="Featured image of post FactoryIO" />
+                
+            </a>
+        </div>
+    
 
     <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/workshop/" >
+                Workshop
+            </a>
+        
+            <a href="/categories/smart-factory/" >
+                Smart Factory
+            </a>
+        
+    </header>
     
 
     <div class="article-title-wrapper">
@@ -157,7 +217,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Nov 06, 2025</time>
+                <time class="article-time--published">Sep 15, 2025</time>
             </div>
         
 
@@ -172,7 +232,7 @@
 
 
                 <time class="article-time--reading">
-                    0 minute read
+                    2 minute read
                 </time>
             </div>
         
@@ -187,7 +247,21 @@
     <section class="article-content">
     
     
-    
+    <h2 id="samenvatting">Samenvatting
+</h2><p>In deze workshop gegeven op de BIC gingen we aan de slag met Factory IO, dit was voor mij de eerste keer dat ik met PLC&rsquo;s ging werken. Het doel was om een productielijn te programmeren zodat de onderdelen precies goed op elkaar zijn afgestemd, met bijbehorende software Control I/O. Hiervoor moesten we verschillende logica en tel blokken gebruiken.</p>
+<h2 id="leerdoelen">Leerdoelen
+</h2><ol>
+<li>Ik kan met Control I/O een basis PLC-programma maken met logica blokken.</li>
+<li>Ik kan met Factory IO een gesimuleerde productielijn aansturen op basis van sensoren.</li>
+</ol>
+<h2 id="opleiding">Opleiding
+</h2><p>Deze workshop begint een interessant patroon in deze minor, het is namelijk het exacte spiegelbeeld van de eerdere workshop met Node-RED. In die workshop werd Node-RED geïntroduceerd als low-code tool, omdat veel OT-gerichte studenten geen programmeertaal beheersen. Nu, in deze OT-gerichte workshop, krijgen we Control I/O als een low-code tool omdat de IT-studenten (zoals ik) geen PLC-talen beheersen.</p>
+<p>Het heeft namelijk ook weinig raakvlakken met mijn opleiding, eigenlijk helemaal geen. We gebruikten wel dezelfde term, &ldquo;programmeren&rdquo;.</p>
+<h2 id="project">Project
+</h2><p>De link met het predictive maintenance project is hier duidelijk denk ik. De data die ons PMK-systeem nodig heeft, wordt gegenereerd door de logica die we in deze workshop hebben gebouwd.</p>
+<h2 id="verdiepen">Verdiepen
+</h2><p>Ik ga me hier niet verder in verdiepen. PLC-programmeren is niet de kant die ik op wil als software engineer. Als ik ooit nog een derde leerdoel nodig heb denk ik wel dat ik hier naar ga kijken en wat de mogelijkheden zijn. Ik vond het namelijk wel boeiend om mee te spelen en een andere manier van programmeren te ontdekken.</p>
+
 </section>
 
 
